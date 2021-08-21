@@ -1,0 +1,47 @@
+BITMASING problems
+
+
+1) https://www.codechef.com/problems/MAXOR
+2)https://www.codechef.com/problems/XRMTRX
+3)https://www.codechef.com/problems/XORTABLE
+4)https://www.codechef.com/problems/XRGRD
+5)https://www.codechef.com/problems/ENIG10
+6)https://www.codechef.com/problems/XM
+7)https://www.codechef.com/problems/XORQUERY
+8)https://www.codechef.com/problems/PREFIXOR
+9)https://www.codechef.com/problems/XORPATH
+10)https://www.codechef.com/problems/SOSTD
+11)https://www.codechef.com/problems/XORCMPNT
+12)https://www.codechef.com/problems/XOR
+13)https://www.codechef.com/problems/XORMIN
+14)https://www.codechef.com/problems/MINXOR
+15)https://www.codechef.com/problems/REBXOR
+16)https://www.codechef.com/problems/PPXOR
+17)https://www.codechef.com/problems/AND
+18)https://www.codechef.com/problems/AND
+19)https://www.codechef.com/problems/AMXOR
+20)https://www.codechef.com/problems/INCXOR
+21)https://www.codechef.com/problems/XORPALIN
+22)https://www.codechef.com/problems/XORCOUNT
+23)https://www.codechef.com/problems/XORIER
+24)https://www.codechef.com/problems/PRTAGN
+25)https://www.codechef.com/problems/REC09E
+26)https://www.codechef.com/problems/GTXOR
+27)https://www.codechef.com/problems/AOA
+28)https://www.codechef.com/problems/DAND
+29)https://www.codechef.com/problems/XORSORT2
+30)https://www.codechef.com/problems/FUZZYCON
+31)https://www.codechef.com/problems/OMYGAME
+32)https://www.codechef.com/problems/STRTF
+33)https://www.codechef.com/problems/CHEFARRB
+34)https://www.codechef.com/problems/LIKECS03
+35)https://www.codechef.com/problems/FAULT
+36)https://www.codechef.com/problems/ORTHODOX
+37)https://www.codechef.com/problems/CHANDF
+38)https://www.codechef.com/problems/CHNGSEQ
+39)https://www.codechef.com/problems/PRCS16D
+40)https://www.codechef.com/problems/ANDTUPLE
+41)https://www.codechef.com/problems/ANDSQR
+
+tutorial for gaussian-elimination  XOR Maximization
+https://www.hackerearth.com/practice/notes/gaussian-elimination/
